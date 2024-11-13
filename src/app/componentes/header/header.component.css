@@ -1,0 +1,17 @@
+*{
+  margin:0 px;
+  box-sizing: border-box;
+  padding: 0;
+  text-decoration: none;
+  font-family: system-ui;
+}
+header{
+  height: 50px;
+}
+nav{
+  height: 50px;
+  display: flex;
+}
+a{
+  margin: 0px 5px;
+}
