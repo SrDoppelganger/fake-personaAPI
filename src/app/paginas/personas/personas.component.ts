@@ -14,5 +14,5 @@ export class PersonasComponent implements OnInit{
           this.personas = data;
       });
   }
-  personas:any = null;
+  personas:any = '';
 }

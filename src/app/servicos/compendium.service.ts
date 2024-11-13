@@ -7,7 +7,7 @@ import { Injectable } from '@angular/core';
 export class CompendiumService {
 
   constructor(private http: HttpClient) { }
-  apiLink:string='';
+  apiLink:string='http://localhost:3000?_embed=Alice';
   getAllPersonas(){
     return this.http.get(this.apiLink);
   }
