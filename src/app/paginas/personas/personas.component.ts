@@ -12,6 +12,7 @@ export class PersonasComponent implements OnInit{
   personas:any = '';
   
   ngOnInit(): void {
+      this.comp.getLink("")
       this.comp.getAllPersonas().subscribe((data: any)=>{
           console.log(data);
           this.personas = data;
@@ -20,12 +21,14 @@ export class PersonasComponent implements OnInit{
 
   searchPersona(input:string){
     this.comp.getLink(`?name=${input}`);
-    console.log(input)
+    console.log(input);
+    this.getPersona();
+  }
+
+  getPersona(){
     this.comp.getAllPersonas().subscribe((data: any)=>{
       console.log(data);
       this.personas = data;
     });
   }
-
-  
 }
