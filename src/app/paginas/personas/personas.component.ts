@@ -8,11 +8,24 @@ import { CompendiumService } from '../../servicos/compendium.service';
 })
 export class PersonasComponent implements OnInit{
   constructor(private comp: CompendiumService){};
+
+  personas:any = '';
+  
   ngOnInit(): void {
       this.comp.getAllPersonas().subscribe((data: any)=>{
           console.log(data);
           this.personas = data;
       });
   }
-  personas:any = '';
+
+  searchPersona(input:string){
+    this.comp.getLink(`?name=${input}`);
+    console.log(input)
+    this.comp.getAllPersonas().subscribe((data: any)=>{
+      console.log(data);
+      this.personas = data;
+    });
+  }
+
+  
 }

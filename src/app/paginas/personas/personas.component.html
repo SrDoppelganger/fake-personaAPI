@@ -1,6 +1,6 @@
 <section>
-  <div>
-    <input type="text" class="searchbox">
-    <h1>{{ personas.name }}</h1>
+  <input type="text" class="searchbox" #search (keyup.enter)="searchPersona(search.value)">
+  <div *ngFor="let persona of personas">
+    <h1>{{ persona.name }}</h1>
   </div>
 </section>

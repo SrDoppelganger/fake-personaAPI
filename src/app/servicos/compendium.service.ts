@@ -5,9 +5,11 @@ import { Injectable } from '@angular/core';
   providedIn: 'root'
 })
 export class CompendiumService {
-
+  getLink(link:string){
+    return this.apiLink = `http://localhost:3000/personas${link}`
+  }
   constructor(private http: HttpClient) { }
-  apiLink:string='http://localhost:3000/personas?_page=1&_limit=5';
+  apiLink:string = this.getLink('');
   getAllPersonas(){
     return this.http.get(this.apiLink);
   }
