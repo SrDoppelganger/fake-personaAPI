@@ -22,7 +22,7 @@
           29
         ],
         "name": "Abaddon",
-        "sprite": "",
+        "sprite": "sprites/abaddon.png",
         "id": 1
       },
       {
@@ -47,7 +47,7 @@
           44
         ],
         "name": "Alice",
-        "sprite": "",
+        "sprite": "sprites/alice.png",
         "id": 2
       },
       {
@@ -71,7 +71,7 @@
           42
         ],
         "name": "Alilat",
-        "sprite": "",
+        "sprite": "sprites/alilat.png",
         "id": 3
       },
       {
@@ -96,7 +96,7 @@
           28
         ],
         "name": "Alraune",
-        "sprite": "",
+        "sprite": "sprites/alraune.png",
         "id": 4
       },
       {
@@ -121,7 +121,7 @@
           23
         ],
         "name": "Ananta",
-        "sprite": "",
+        "sprite": "sprites/ananta.png",
         "id": 5
       },
       {
@@ -146,7 +146,7 @@
           12
         ],
         "name": "Andras",
-        "sprite": "",
+        "sprite": "sprites/andras.png",
         "id": 6
       },
       {
@@ -170,7 +170,7 @@
           3
         ],
         "name": "Angel",
-        "sprite": "",
+        "sprite": "sprites/angel.png",
         "id": 7
       },
       {
@@ -196,7 +196,7 @@
           31
         ],
         "name": "Anubis",
-        "sprite": "",
+        "sprite": "sprites/anubis.png",
         "id": 8
       },
       {
@@ -221,7 +221,7 @@
           9
         ],
         "name": "Anzu",
-        "sprite": "",
+        "sprite": "sprites/anzu.png",
         "id": 9
       },
       {
@@ -244,7 +244,7 @@
           3
         ],
         "name": "Apsaras",
-        "sprite": "",
+        "sprite": "sprites/apsaras.png",
         "id": 10
       },
       {
@@ -268,7 +268,7 @@
           11
         ],
         "name": "Ara Mitama",
-        "sprite": "",
+        "sprite": "sprites/ara_mitama.png",
         "id": 11
       },
       {
@@ -292,7 +292,7 @@
           25
         ],
         "name": "Arahabaki",
-        "sprite": "",
+        "sprite": "sprites/arahabaki.png",
         "id": 12
       },
       {
@@ -317,7 +317,7 @@
           9
         ],
         "name": "Archangel",
-        "sprite": "",
+        "sprite": "sprites/archangel.png",
         "id": 13
       },
       {
@@ -343,7 +343,7 @@
           58
         ],
         "name": "Ardha",
-        "sprite": "",
+        "sprite": "sprites/ardha.png",
         "id": 14
       },
       {
@@ -367,7 +367,7 @@
           14
         ],
         "name": "Ares",
-        "sprite": "",
+        "sprite": "sprites/ares.png",
         "id": 15
       },
       {
@@ -392,7 +392,7 @@
           48
         ],
         "name": "Asura",
-        "sprite": "",
+        "sprite": "sprites/asura.png",
         "id": 16
       },
       {
@@ -417,7 +417,7 @@
           48
         ],
         "name": "Atavaka",
-        "sprite": "",
+        "sprite": "sprites/atavaka.png",
         "id": 17
       },
       {
@@ -441,7 +441,7 @@
           45
         ],
         "name": "Atropos",
-        "sprite": "",
+        "sprite": "sprites/atropos.png",
         "id": 18
       },
       {
@@ -466,7 +466,7 @@
           40
         ],
         "name": "Attis",
-        "sprite": "",
+        "sprite": "sprites/attis.png",
         "id": 19
       },
       {
@@ -491,7 +491,7 @@
           40
         ],
         "name": "Baal Zebul",
-        "sprite": "",
+        "sprite": "sprites/baal_zebul.png",
         "id": 20
       },
       {
@@ -516,7 +516,7 @@
           34
         ],
         "name": "Barong",
-        "sprite": "",
+        "sprite": "sprites/barong.png",
         "id": 21
       },
       {
@@ -542,7 +542,7 @@
           44
         ],
         "name": "Beelzebub",
-        "sprite": "",
+        "sprite": "sprites/beelzebub.png",
         "id": 22
       },
       {
@@ -566,7 +566,7 @@
           41
         ],
         "name": "Belial",
-        "sprite": "",
+        "sprite": "sprites/belial.png",
         "id": 23
       },
       {
@@ -591,7 +591,7 @@
           21
         ],
         "name": "Belphegor",
-        "sprite": "",
+        "sprite": "sprites/belphegor.png",
         "id": 24
       },
       {
@@ -616,7 +616,7 @@
           9
         ],
         "name": "Berith",
-        "sprite": "",
+        "sprite": "sprites/berith.png",
         "id": 25
       },
       {
@@ -642,7 +642,7 @@
           22
         ],
         "name": "Black Frost",
-        "sprite": "",
+        "sprite": "sprites/black_frost.png",
         "id": 26
       },
       {
@@ -667,7 +667,7 @@
           30
         ],
         "name": "Byakko",
-        "sprite": "",
+        "sprite": "sprites/byakko.png",
         "id": 27
       },
       {
@@ -692,7 +692,7 @@
           29
         ],
         "name": "Cerberus",
-        "sprite": "",
+        "sprite": "sprites/cerberus.png",
         "id": 28
       },
       {
@@ -717,7 +717,7 @@
           32
         ],
         "name": "Clotho",
-        "sprite": "",
+        "sprite": "sprites/clotho.png",
         "id": 29
       },
       {
@@ -743,7 +743,7 @@
           20
         ],
         "name": "Cu Chulainn",
-        "sprite": "",
+        "sprite": "sprites/cu_chullain.png",
         "id": 30
       },
       {
@@ -768,7 +768,7 @@
           7
         ],
         "name": "Cu Sith",
-        "sprite": "",
+        "sprite": "sprites/cu_sith.png",
         "id": 31
       },
       {
@@ -792,7 +792,7 @@
           35
         ],
         "name": "Cybele",
-        "sprite": "",
+        "sprite": "sprites/cybele.png",
         "id": 32
       },
       {
@@ -818,7 +818,7 @@
           41
         ],
         "name": "Daisoujou",
-        "sprite": "",
+        "sprite": "sprites/daisoujou.png",
         "id": 33
       },
       {
@@ -843,7 +843,7 @@
           31
         ],
         "name": "Decarabia",
-        "sprite": "",
+        "sprite": "sprites/decarabia.png",
         "id": 34
       },
       {
@@ -868,7 +868,7 @@
           21
         ],
         "name": "Dis",
-        "sprite": "",
+        "sprite": "sprites/dis.png",
         "id": 35
       },
       {
@@ -893,7 +893,7 @@
           18
         ],
         "name": "Dominion",
-        "sprite": "",
+        "sprite": "sprites/dominion.png",
         "id": 36
       },
       {
@@ -918,7 +918,7 @@
           5
         ],
         "name": "Eligor",
-        "sprite": "",
+        "sprite": "sprites/eligor.png",
         "id": 37
       },
       {
@@ -943,7 +943,7 @@
           21
         ],
         "name": "Flauros",
-        "sprite": "",
+        "sprite": "sprites/flauros.png",
         "id": 38
       },
       {
@@ -967,7 +967,7 @@
           3
         ],
         "name": "Forneus",
-        "sprite": "",
+        "sprite": "sprites/forneus.png",
         "id": 39
       },
       {
@@ -991,7 +991,7 @@
           22
         ],
         "name": "Fortuna",
-        "sprite": "",
+        "sprite": "sprites/fortuna.png",
         "id": 40
       },
       {
@@ -1017,7 +1017,7 @@
           45
         ],
         "name": "Futsunushi",
-        "sprite": "",
+        "sprite": "sprites/futsunushi.png",
         "id": 41
       },
       {
@@ -1042,7 +1042,7 @@
           18
         ],
         "name": "Fuu-Ki",
-        "sprite": "",
+        "sprite": "sprites/fuu-ki.png",
         "id": 42
       },
       {
@@ -1066,7 +1066,7 @@
           25
         ],
         "name": "Gabriel",
-        "sprite": "",
+        "sprite": "sprites/gabriel.png",
         "id": 43
       },
       {
@@ -1091,7 +1091,7 @@
           32
         ],
         "name": "Ganesha",
-        "sprite": "",
+        "sprite": "sprites/ganesha.png",
         "id": 44
       },
       {
@@ -1116,7 +1116,7 @@
           21
         ],
         "name": "Ganga",
-        "sprite": "",
+        "sprite": "sprites/ganga.png",
         "id": 45
       },
       {
@@ -1141,7 +1141,7 @@
           31
         ],
         "name": "Garuda",
-        "sprite": "",
+        "sprite": "sprites/garuda.png",
         "id": 46
       },
       {
@@ -1166,7 +1166,7 @@
           18
         ],
         "name": "Gdon",
-        "sprite": "",
+        "sprite": "sprites/gdon.png",
         "id": 47
       },
       {
@@ -1191,7 +1191,7 @@
           21
         ],
         "name": "Genbu",
-        "sprite": "",
+        "sprite": "sprites/genbu.png",
         "id": 48
       },
       {
@@ -1216,7 +1216,7 @@
           5
         ],
         "name": "Ghoul",
-        "sprite": "",
+        "sprite": "sprites/ghoul.png",
         "id": 49
       },
       {
@@ -1242,7 +1242,7 @@
           27
         ],
         "name": "Girimehkala",
-        "sprite": "",
+        "sprite": "sprites/girimehkala.png",
         "id": 50
       },
       {
@@ -1266,7 +1266,7 @@
           19
         ],
         "name": "Gorgon",
-        "sprite": "",
+        "sprite": "sprites/gorgon.png",
         "id": 51
       },
       {
@@ -1290,7 +1290,7 @@
           47
         ],
         "name": "Hachiman",
-        "sprite": "",
+        "sprite": "sprites/hachiman.png",
         "id": 52
       },
       {
@@ -1315,7 +1315,7 @@
           25
         ],
         "name": "Hanuman",
-        "sprite": "",
+        "sprite": "sprites/hanuman.png",
         "id": 53
       },
       {
@@ -1339,7 +1339,7 @@
           39
         ],
         "name": "Hariti",
-        "sprite": "",
+        "sprite": "sprites/hariti.png",
         "id": 54
       },
       {
@@ -1365,7 +1365,7 @@
           50
         ],
         "name": "Helel",
-        "sprite": "",
+        "sprite": "sprites/helel.png",
         "id": 55
       },
       {
@@ -1390,7 +1390,7 @@
           28
         ],
         "name": "Hell Biker",
-        "sprite": "",
+        "sprite": "sprites/hell_biker.png",
         "id": 56
       },
       {
@@ -1415,7 +1415,7 @@
           13
         ],
         "name": "High Pixie",
-        "sprite": "",
+        "sprite": "sprites/high_pixie.png",
         "id": 57
       },
       {
@@ -1440,7 +1440,7 @@
           19
         ],
         "name": "Hitokoto-Nushi",
-        "sprite": "",
+        "sprite": "sprites/hitokoto-nushi.png",
         "id": 58
       },
       {
@@ -1465,7 +1465,7 @@
           22
         ],
         "name": "Hokuto Seikun",
-        "sprite": "",
+        "sprite": "hokuto_seikun",
         "id": 59
       },
       {
@@ -1489,7 +1489,7 @@
           38
         ],
         "name": "Horus",
-        "sprite": "",
+        "sprite": "sprites/horus.png",
         "id": 60
       },
       {
@@ -1514,7 +1514,7 @@
           15
         ],
         "name": "Hua Po",
-        "sprite": "",
+        "sprite": "sprites/hua_po.png",
         "id": 61
       },
       {
@@ -1538,7 +1538,7 @@
           17
         ],
         "name": "Incubus",
-        "sprite": "",
+        "sprite": "sprites/incubus.png",
         "id": 62
       },
       {
@@ -1562,7 +1562,7 @@
           10
         ],
         "name": "Ippon-Datara",
-        "sprite": "",
+        "sprite": "sprites/ippon-datara.png",
         "id": 63
       },
       {
@@ -1588,7 +1588,7 @@
           49
         ],
         "name": "Ishtar",
-        "sprite": "",
+        "sprite": "sprites/ishtar.png",
         "id": 64
       },
       {
@@ -1614,7 +1614,7 @@
           54
         ],
         "name": "Isis",
-        "sprite": "",
+        "sprite": "sprites/isis.png",
         "id": 65
       },
       {
@@ -1637,7 +1637,7 @@
           2
         ],
         "name": "Izanagi",
-        "sprite": "",
+        "sprite": "sprites/izanagi.png",
         "id": 66
       },
       {
@@ -1667,7 +1667,7 @@
           80
         ],
         "name": "Izanagi-no-Okami",
-        "sprite": "",
+        "sprite": "sprites/izanagi-no-okami.png",
         "id": 67
       },
       {
@@ -1692,7 +1692,7 @@
           8
         ],
         "name": "Jack Frost",
-        "sprite": "",
+        "sprite": "sprites/jack_frost.png",
         "id": 68
       },
       {
@@ -1716,7 +1716,7 @@
           25
         ],
         "name": "Jatayu",
-        "sprite": "",
+        "sprite": "sprites/jatayu.png",
         "id": 69
       },
       {
@@ -1740,7 +1740,7 @@
           28
         ],
         "name": "Jinn",
-        "sprite": "",
+        "sprite": "sprites/jinn.png",
         "id": 70
       },
       {
@@ -1765,7 +1765,7 @@
           11
         ],
         "name": "Kaiwan",
-        "sprite": "",
+        "sprite": "sprites/kaiwan.png",
         "id": 71
       },
       {
@@ -1789,7 +1789,7 @@
           27
         ],
         "name": "Kali",
-        "sprite": "",
+        "sprite": "sprites/kali.png",
         "id": 72
       },
       {
@@ -1813,7 +1813,7 @@
           38
         ],
         "name": "Kartikeya",
-        "sprite": "",
+        "sprite": "sprites/kartikeya.png",
         "id": 73
       },
       {
@@ -1838,7 +1838,7 @@
           30
         ],
         "name": "Kikuri-Hime",
-        "sprite": "",
+        "sprite": "sprites/kikuri-hime.png",
         "id": 74
       },
       {
@@ -1862,7 +1862,7 @@
           27
         ],
         "name": "Kin-Ki",
-        "sprite": "",
+        "sprite": "sprites/kin-ki.png",
         "id": 75
       },
       {
@@ -1888,7 +1888,7 @@
           12
         ],
         "name": "King Frost",
-        "sprite": "",
+        "sprite": "sprites/king_frost.png",
         "id": 76
       },
       {
@@ -1914,7 +1914,7 @@
           38
         ],
         "name": "Kohryu",
-        "sprite": "",
+        "sprite": "sprites/kohryu.png",
         "id": 77
       },
       {
@@ -1939,7 +1939,7 @@
           21
         ],
         "name": "Kurama Tengu",
-        "sprite": "",
+        "sprite": "sprites/kurama_tengu.png",
         "id": 78
       },
       {
@@ -1964,7 +1964,7 @@
           21
         ],
         "name": "Kusi Mitama",
-        "sprite": "",
+        "sprite": "sprites/kusi_mitama.png",
         "id": 79
       },
       {
@@ -1989,7 +1989,7 @@
           31
         ],
         "name": "Lachesis",
-        "sprite": "",
+        "sprite": "sprites/lachesis.png",
         "id": 80
       },
       {
@@ -2014,7 +2014,7 @@
           14
         ],
         "name": "Lamia",
-        "sprite": "",
+        "sprite": "sprites/lamia.png",
         "id": 81
       },
       {
@@ -2039,7 +2039,7 @@
           26
         ],
         "name": "Leanan Sidhe",
-        "sprite": "",
+        "sprite": "sprites/Leanan_sidhe.png",
         "id": 82
       },
       {
@@ -2064,7 +2064,7 @@
           11
         ],
         "name": "Legion",
-        "sprite": "",
+        "sprite": "sprites/legion.png",
         "id": 83
       },
       {
@@ -2088,7 +2088,7 @@
           8
         ],
         "name": "Lilim",
-        "sprite": "",
+        "sprite": "sprites/lilim.png",
         "id": 84
       },
       {
@@ -2112,7 +2112,7 @@
           27
         ],
         "name": "Lilith",
-        "sprite": "",
+        "sprite": "sprites/lilith.png",
         "id": 85
       },
       {
@@ -2138,7 +2138,7 @@
           23
         ],
         "name": "Loki",
-        "sprite": "",
+        "sprite": "sprites/loki.png",
         "id": 86
       },
       {
@@ -2164,7 +2164,7 @@
           51
         ],
         "name": "Lucifer",
-        "sprite": "",
+        "sprite": "sprites/lucifer.png",
         "id": 87
       },
       {
@@ -2189,7 +2189,7 @@
           43
         ],
         "name": "Mada",
-        "sprite": "",
+        "sprite": "sprites/mada.png",
         "id": 88
       },
       {
@@ -2215,7 +2215,7 @@
           39
         ],
         "name": "Mahakala",
-        "sprite": "",
+        "sprite": "sprites/mahakala.png",
         "id": 89
       },
       {
@@ -2240,7 +2240,7 @@
           16
         ],
         "name": "Makami",
-        "sprite": "",
+        "sprite": "sprites/makami.png",
         "id": 90
       },
       {
@@ -2264,7 +2264,7 @@
           30
         ],
         "name": "Mara",
-        "sprite": "",
+        "sprite": "sprites/mara.png",
         "id": 91
       },
       {
@@ -2288,7 +2288,7 @@
           40
         ],
         "name": "Masakado",
-        "sprite": "",
+        "sprite": "sprites/masakado.png",
         "id": 92
       },
       {
@@ -2313,7 +2313,7 @@
           11
         ],
         "name": "Matador",
-        "sprite": "",
+        "sprite": "sprites/matador.png",
         "id": 93
       },
       {
@@ -2337,7 +2337,7 @@
           28
         ],
         "name": "Melchizedek",
-        "sprite": "",
+        "sprite": "sprites/melchizedek.png",
         "id": 94
       },
       {
@@ -2361,7 +2361,7 @@
           48
         ],
         "name": "Metatron",
-        "sprite": "",
+        "sprite": "sprites/metatron.png",
         "id": 95
       },
       {
@@ -2386,7 +2386,7 @@
           45
         ],
         "name": "Michael",
-        "sprite": "",
+        "sprite": "sprites/michael.png",
         "id": 96
       },
       {
@@ -2411,7 +2411,7 @@
           15
         ],
         "name": "Mithra",
-        "sprite": "",
+        "sprite": "sprites/mithra.png",
         "id": 97
       },
       {
@@ -2436,7 +2436,7 @@
           9
         ],
         "name": "Mokoi",
-        "sprite": "",
+        "sprite": "sprites/mokoi.png",
         "id": 98
       },
       {
@@ -2460,7 +2460,7 @@
           21
         ],
         "name": "Mot",
-        "sprite": "",
+        "sprite": "sprites/mot.png",
         "id": 99
       },
       {
@@ -2484,7 +2484,7 @@
           36
         ],
         "name": "Mother Harlot",
-        "sprite": "",
+        "sprite": "sprites/mother_harlot.png",
         "id": 100
       },
       {
@@ -2508,7 +2508,7 @@
           18
         ],
         "name": "Mothman",
-        "sprite": "",
+        "sprite": "sprites/mothman.png",
         "id": 101
       },
       {
@@ -2532,7 +2532,7 @@
           27
         ],
         "name": "Narasimha",
-        "sprite": "",
+        "sprite": "sprites/narasimha.png",
         "id": 102
       },
       {
@@ -2557,7 +2557,7 @@
           4
         ],
         "name": "Nata Taishi",
-        "sprite": "",
+        "sprite": "sprites/nata_taishi.png",
         "id": 103
       },
       {
@@ -2582,7 +2582,7 @@
           32
         ],
         "name": "Nebiros",
-        "sprite": "",
+        "sprite": "sprites/nebiros.png",
         "id": 104
       },
       {
@@ -2607,7 +2607,7 @@
           15
         ],
         "name": "Neko Shogun",
-        "sprite": "",
+        "sprite": "sprites/neko_shogun.png",
         "id": 105
       },
       {
@@ -2632,7 +2632,7 @@
           42
         ],
         "name": "Niddhoggr",
-        "sprite": "",
+        "sprite": "sprites/niddhoggr.png",
         "id": 106
       },
       {
@@ -2657,7 +2657,7 @@
           16
         ],
         "name": "Nigi Mitama",
-        "sprite": "",
+        "sprite": "sprites/nigi_mitama.png",
         "id": 107
       },
       {
@@ -2683,7 +2683,7 @@
           46
         ],
         "name": "Norn",
-        "sprite": "",
+        "sprite": "sprites/norn.png",
         "id": 108
       },
       {
@@ -2708,7 +2708,7 @@
           15
         ],
         "name": "Nozuchi",
-        "sprite": "",
+        "sprite": "sprites/nozuchi.png",
         "id": 109
       },
       {
@@ -2733,7 +2733,7 @@
           9
         ],
         "name": "Obariyon",
-        "sprite": "",
+        "sprite": "sprites/obariyon.png",
         "id": 110
       },
       {
@@ -2758,7 +2758,7 @@
           5
         ],
         "name": "Oberon",
-        "sprite": "",
+        "sprite": "sprites/oberon.png",
         "id": 111
       },
       {
@@ -2783,7 +2783,7 @@
           43
         ],
         "name": "Odin",
-        "sprite": "",
+        "sprite": "sprites/odin.png",
         "id": 112
       },
       {
@@ -2808,7 +2808,7 @@
           22
         ],
         "name": "Okuninushi",
-        "sprite": "",
+        "sprite": "sprites/okuninushi.png",
         "id": 113
       },
       {
@@ -2834,7 +2834,7 @@
           6
         ],
         "name": "Omoikane",
-        "sprite": "",
+        "sprite": "sprites/omoikane.png",
         "id": 114
       },
       {
@@ -2859,7 +2859,7 @@
           24
         ],
         "name": "Ongyo-Ki",
-        "sprite": "",
+        "sprite": "sprites/ongyo-ki.png",
         "id": 115
       },
       {
@@ -2884,7 +2884,7 @@
           16
         ],
         "name": "Oni",
-        "sprite": "",
+        "sprite": "sprites/oni.png",
         "id": 116
       },
       {
@@ -2908,7 +2908,7 @@
           4
         ],
         "name": "Orobas",
-        "sprite": "",
+        "sprite": "sprites/orobas.png",
         "id": 117
       },
       {
@@ -2932,7 +2932,7 @@
           18
         ],
         "name": "Orthrus",
-        "sprite": "",
+        "sprite": "sprites/orthrus.png",
         "id": 118
       },
       {
@@ -2957,7 +2957,7 @@
           15
         ],
         "name": "Ose",
-        "sprite": "",
+        "sprite": "sprites/ose.png",
         "id": 119
       },
       {
@@ -2981,7 +2981,7 @@
           30
         ],
         "name": "Pabilsag",
-        "sprite": "",
+        "sprite": "sprites/pabilsag.png",
         "id": 120
       },
       {
@@ -3005,7 +3005,7 @@
           27
         ],
         "name": "Parvati",
-        "sprite": "",
+        "sprite": "sprites/parvati.png",
         "id": 121
       },
       {
@@ -3030,7 +3030,7 @@
           19
         ],
         "name": "Pazuzu",
-        "sprite": "",
+        "sprite": "sprites/pazuzu.png",
         "id": 122
       },
       {
@@ -3055,7 +3055,7 @@
           14
         ],
         "name": "Phoenix",
-        "sprite": "",
+        "sprite": "sprites/phoenix.png",
         "id": 123
       },
       {
@@ -3078,7 +3078,7 @@
           2
         ],
         "name": "Pixie",
-        "sprite": "",
+        "sprite": "sprites/pixie.png",
         "id": 124
       },
       {
@@ -3129,7 +3129,7 @@
           10
         ],
         "name": "Principality",
-        "sprite": "",
+        "sprite": "sprites/principality.png",
         "id": 126
       },
       {
@@ -3153,7 +3153,7 @@
           20
         ],
         "name": "Pyro Jack",
-        "sprite": "",
+        "sprite": "pyro_jack",
         "id": 127
       },
       {

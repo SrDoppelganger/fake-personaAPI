@@ -1,6 +1,7 @@
 <section>
   <input type="text" class="searchbox" #search (keyup.enter)="searchPersona(search.value)">
   <div *ngFor="let persona of personas">
+    <img src="{{ persona.sprite }}">
     <h1>{{ persona.name }}</h1>
   </div>
 </section>
