@@ -1440,7 +1440,7 @@
           19
         ],
         "name": "Hitokoto-Nushi",
-        "sprite": "sprites/hitokoto-nushi.png",
+        "sprite": "sprites/hitokotonushi.png",
         "id": 58
       },
       {
@@ -2039,7 +2039,7 @@
           26
         ],
         "name": "Leanan Sidhe",
-        "sprite": "sprites/Leanan_sidhe.png",
+        "sprite": "sprites/leanan_sidhe.png",
         "id": 82
       },
       {
@@ -3055,7 +3055,7 @@
           14
         ],
         "name": "Phoenix",
-        "sprite": "sprites/phoenix.png",
+        "sprite": "sprites/feng_huang.png",
         "id": 123
       },
       {
@@ -3104,7 +3104,7 @@
           19
         ],
         "name": "Power",
-        "sprite": "",
+        "sprite": "sprites/power.png",
         "id": 125
       },
       {
@@ -3153,7 +3153,7 @@
           20
         ],
         "name": "Pyro Jack",
-        "sprite": "pyro_jack",
+        "sprite": "sprites/pyro_jack.png",
         "id": 127
       },
       {
@@ -3178,7 +3178,7 @@
           14
         ],
         "name": "Queen Mab",
-        "sprite": "",
+        "sprite": "sprites/queen_mab.png",
         "id": 128
       },
       {
@@ -3203,7 +3203,7 @@
           13
         ],
         "name": "Rakshasa",
-        "sprite": "",
+        "sprite": "sprites/rakshasa.png",
         "id": 129
       },
       {
@@ -3227,7 +3227,7 @@
           32
         ],
         "name": "Rangda",
-        "sprite": "",
+        "sprite": "sprites/rangda.png",
         "id": 130
       },
       {
@@ -3251,7 +3251,7 @@
           39
         ],
         "name": "Raphael",
-        "sprite": "",
+        "sprite": "sprites/raphael.png",
         "id": 131
       },
       {
@@ -3275,7 +3275,7 @@
           10
         ],
         "name": "Saki Mitama",
-        "sprite": "",
+        "sprite": "sprites/saki_mitama.png",
         "id": 132
       },
       {
@@ -3300,7 +3300,7 @@
           18
         ],
         "name": "Samael",
-        "sprite": "",
+        "sprite": "sprites/samael.png",
         "id": 133
       },
       {
@@ -3325,7 +3325,7 @@
           49
         ],
         "name": "Sandalphon",
-        "sprite": "",
+        "sprite": "sprites/sandalphon.png",
         "id": 134
       },
       {
@@ -3349,7 +3349,7 @@
           3
         ],
         "name": "Sandman",
-        "sprite": "",
+        "sprite": "sprites/sandman.png",
         "id": 135
       },
       {
@@ -3374,7 +3374,7 @@
           10
         ],
         "name": "Sarasvati",
-        "sprite": "",
+        "sprite": "sprites/sarasvati.png",
         "id": 136
       },
       {
@@ -3399,7 +3399,7 @@
           43
         ],
         "name": "Satan",
-        "sprite": "",
+        "sprite": "sprites/satan.png",
         "id": 137
       },
       {
@@ -3423,7 +3423,7 @@
           49
         ],
         "name": "Saturnus",
-        "sprite": "",
+        "sprite": "sprites/saturnus.png",
         "id": 138
       },
       {
@@ -3448,7 +3448,7 @@
           45
         ],
         "name": "Scathach",
-        "sprite": "",
+        "sprite": "sprites/scathach.png",
         "id": 139
       },
       {
@@ -3473,7 +3473,7 @@
           26
         ],
         "name": "Seiryu",
-        "sprite": "",
+        "sprite": "sprites/seiryuu.png",
         "id": 140
       },
       {
@@ -3497,7 +3497,7 @@
           5
         ],
         "name": "Senri",
-        "sprite": "",
+        "sprite": "sprites/senri.png",
         "id": 141
       },
       {
@@ -3522,7 +3522,7 @@
           16
         ],
         "name": "Setanta",
-        "sprite": "",
+        "sprite": "sprites/setanta.png",
         "id": 142
       },
       {
@@ -3546,7 +3546,7 @@
           35
         ],
         "name": "Seth",
-        "sprite": "",
+        "sprite": "sprites/seth.png",
         "id": 143
       },
       {
@@ -3571,7 +3571,7 @@
           11
         ],
         "name": "Shiisaa",
-        "sprite": "",
+        "sprite": "sprites/shiisaa.png",
         "id": 144
       },
       {
@@ -3595,7 +3595,7 @@
           24
         ],
         "name": "Shiki-Ouji",
-        "sprite": "",
+        "sprite": "sprites/shiki-ouji.png",
         "id": 145
       },
       {
@@ -3620,7 +3620,7 @@
           42
         ],
         "name": "Shiva",
-        "sprite": "",
+        "sprite": "sprites/shiva.png",
         "id": 146
       },
       {
@@ -3645,7 +3645,7 @@
           33
         ],
         "name": "Siegfried",
-        "sprite": "",
+        "sprite": "sprites/siegfried.png",
         "id": 147
       },
       {
@@ -3670,7 +3670,7 @@
           31
         ],
         "name": "Skadi",
-        "sprite": "",
+        "sprite": "sprites/skadi.png",
         "id": 148
       },
       {
@@ -3694,7 +3694,7 @@
           3
         ],
         "name": "Slime",
-        "sprite": "",
+        "sprite": "sprites/slime.png",
         "id": 149
       },
       {
@@ -3719,7 +3719,7 @@
           33
         ],
         "name": "Sraosha",
-        "sprite": "",
+        "sprite": "sprites/sraosha.png",
         "id": 150
       },
       {
@@ -3744,7 +3744,7 @@
           27
         ],
         "name": "Succubus",
-        "sprite": "",
+        "sprite": "sprites/succubus.png",
         "id": 151
       },
       {
@@ -3768,7 +3768,7 @@
           17
         ],
         "name": "Sui-Ki",
-        "sprite": "",
+        "sprite": "sprites/sui-ki.png",
         "id": 152
       },
       {
@@ -3793,7 +3793,7 @@
           38
         ],
         "name": "Suparna",
-        "sprite": "",
+        "sprite": "sprites/suparna.png",
         "id": 153
       },
       {
@@ -3818,7 +3818,7 @@
           40
         ],
         "name": "Surt",
-        "sprite": "",
+        "sprite": "sprites/surt.png",
         "id": 154
       },
       {
@@ -3843,7 +3843,7 @@
           30
         ],
         "name": "Suzaku",
-        "sprite": "",
+        "sprite": "sprites/suzaku.png",
         "id": 155
       },
       {
@@ -3867,7 +3867,7 @@
           7
         ],
         "name": "Sylph",
-        "sprite": "",
+        "sprite": "sprites/sylph.png",
         "id": 156
       },
       {
@@ -3893,7 +3893,7 @@
           25
         ],
         "name": "Tam Lin",
-        "sprite": "",
+        "sprite": "sprites/tam_lin.png",
         "id": 157
       },
       {
@@ -3918,7 +3918,7 @@
           13
         ],
         "name": "Taotie",
-        "sprite": "",
+        "sprite": "sprites/taotie.png",
         "id": 158
       },
       {
@@ -3943,7 +3943,7 @@
           29
         ],
         "name": "Taowu",
-        "sprite": "",
+        "sprite": "sprites/taowu.png",
         "id": 159
       },
       {
@@ -3968,7 +3968,7 @@
           35
         ],
         "name": "Thor",
-        "sprite": "",
+        "sprite": "sprites/thor.png",
         "id": 160
       },
       {
@@ -3993,7 +3993,7 @@
           27
         ],
         "name": "Thoth",
-        "sprite": "",
+        "sprite": "sprites/thoth.png",
         "id": 161
       },
       {
@@ -4018,7 +4018,7 @@
           26
         ],
         "name": "Throne",
-        "sprite": "",
+        "sprite": "sprites/throne.png",
         "id": 162
       },
       {
@@ -4042,7 +4042,7 @@
           6
         ],
         "name": "Titan",
-        "sprite": "",
+        "sprite": "sprites/titan.png",
         "id": 163
       },
       {
@@ -4066,7 +4066,7 @@
           16
         ],
         "name": "Titania",
-        "sprite": "",
+        "sprite": "sprites/titania.png",
         "id": 164
       },
       {
@@ -4091,7 +4091,7 @@
           21
         ],
         "name": "Triglav",
-        "sprite": "",
+        "sprite": "sprites/triglav.png",
         "id": 165
       },
       {
@@ -4117,7 +4117,7 @@
           37
         ],
         "name": "Trumpeter",
-        "sprite": "",
+        "sprite": "sprites/trumpeter.png",
         "id": 166
       },
       {
@@ -4143,7 +4143,7 @@
           35
         ],
         "name": "Tzitzimitl",
-        "sprite": "",
+        "sprite": "sprites/tzitzimitl.png",
         "id": 167
       },
       {
@@ -4167,7 +4167,7 @@
           2
         ],
         "name": "Ukobach",
-        "sprite": "",
+        "sprite": "sprites/ukobach.png",
         "id": 168
       },
       {
@@ -4191,7 +4191,7 @@
           19
         ],
         "name": "Undine",
-        "sprite": "",
+        "sprite": "sprites/undine.png",
         "id": 169
       },
       {
@@ -4216,7 +4216,7 @@
           14
         ],
         "name": "Unicorn",
-        "sprite": "",
+        "sprite": "sprites/unicorn.png",
         "id": 170
       },
       {
@@ -4241,7 +4241,7 @@
           31
         ],
         "name": "Uriel",
-        "sprite": "",
+        "sprite": "sprites/uriel.png",
         "id": 171
       },
       {
@@ -4265,7 +4265,7 @@
           5
         ],
         "name": "Valkyrie",
-        "sprite": "",
+        "sprite": "sprites/valkyrie.png",
         "id": 172
       },
       {
@@ -4290,7 +4290,7 @@
           35
         ],
         "name": "Vasuki",
-        "sprite": "",
+        "sprite": "sprites/vasuki.png",
         "id": 173
       },
       {
@@ -4315,7 +4315,7 @@
           11
         ],
         "name": "Vetala",
-        "sprite": "",
+        "sprite": "sprites/vetala.png",
         "id": 174
       },
       {
@@ -4340,7 +4340,7 @@
           15
         ],
         "name": "Virtue",
-        "sprite": "",
+        "sprite": "sprites/virtue.png",
         "id": 175
       },
       {
@@ -4365,7 +4365,7 @@
           43
         ],
         "name": "Vishnu",
-        "sprite": "",
+        "sprite": "sprites/vishnu.png",
         "id": 176
       },
       {
@@ -4391,7 +4391,7 @@
           24
         ],
         "name": "White Rider",
-        "sprite": "",
+        "sprite": "sprites/white_rider.png",
         "id": 177
       },
       {
@@ -4416,7 +4416,7 @@
           7
         ],
         "name": "Xiezhai",
-        "sprite": "",
+        "sprite": "sprites/xiezhai.png",
         "id": 178
       },
       {
@@ -4441,7 +4441,7 @@
           10
         ],
         "name": "Yaksini",
-        "sprite": "",
+        "sprite": "sprites/yaksini.png",
         "id": 179
       },
       {
@@ -4465,7 +4465,7 @@
           15
         ],
         "name": "Yamata-no-Orochi",
-        "sprite": "",
+        "sprite": "sprites/yamata-no-orochi.png",
         "id": 180
       },
       {
@@ -4490,7 +4490,7 @@
           19
         ],
         "name": "Yatagarasu",
-        "sprite": "",
+        "sprite": "sprites/yatagarasu.png",
         "id": 181
       },
       {
@@ -4516,7 +4516,7 @@
           26
         ],
         "name": "Yatsufusa",
-        "sprite": "",
+        "sprite": "sprites/yatsufusa.png",
         "id": 182
       },
       {
@@ -4540,7 +4540,7 @@
           10
         ],
         "name": "Yomotsu-Ikusa",
-        "sprite": "",
+        "sprite": "sprites/yomotsu-ikusa.png",
         "id": 183
       },
       {
@@ -4564,7 +4564,7 @@
           4
         ],
         "name": "Yomotsu-Shikome",
-        "sprite": "",
+        "sprite": "sprites/yomotsu-shikome.png",
         "id": 184
       },
       {
@@ -4589,7 +4589,7 @@
           34
         ],
         "name": "Yoshitsune",
-        "sprite": "",
+        "sprite": "sprites/yoshitsune.png",
         "id": 185
       },
       {
@@ -4613,7 +4613,7 @@
           35
         ],
         "name": "Yurlungur",
-        "sprite": "",
+        "sprite": "sprites/yurlungur.png",
         "id": 186
       },
       {
@@ -4639,7 +4639,7 @@
           50
         ],
         "name": "Zaou-Gongen",
-        "sprite": "",
+        "sprite": "sprites/zaou-gongen.png",
         "id": 187
       }
     ]
